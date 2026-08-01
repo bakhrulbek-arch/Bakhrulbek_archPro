@@ -1,0 +1,10 @@
+#svg_logo-barch {
+    height: 50px;
+    margin-top: 12px;
+    filter: invert(100%);
+}
+
+#svg_logo-barch:hover {
+    opacity: 100%;
+}
+
